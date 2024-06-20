@@ -32,9 +32,11 @@ The clock will update every second, showing the current hours, minutes, and seco
 ## Example Output
 
 Current Time: 13:45:22
+
 Current Time: 13:45:23
+
 Current Time: 13:45:24
-...
+
 ## Contributing
 Contributions are welcome! If you have any ideas for improvements, feel free to fork the repository and submit a pull request. You can also open issues for bug reports or feature requests.
 
