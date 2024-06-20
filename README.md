@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone 
+git clone https://github.com/Raghul2103/digitalclock.git
 Alternatively, download the digital_clock.py file directly.
 
 Navigate into the project directory:
